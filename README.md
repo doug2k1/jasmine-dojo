@@ -1,4 +1,9 @@
 # jasmine-dojo
 
-`npm install -g jasmine`
-`jasmine`
+Instalar Jasmine:
+
+```npm install -g jasmine```
+
+Executar os testes:
+
+```jasmine```
