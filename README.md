@@ -2,8 +2,12 @@
 
 Instalar Jasmine:
 
-```npm install -g jasmine```
+```
+npm install -g jasmine
+```
 
 Executar os testes:
 
-```jasmine```
+```
+jasmine
+```
